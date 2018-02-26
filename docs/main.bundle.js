@@ -60,7 +60,7 @@ var AppComponent = /** @class */ (function () {
         this.title = 'My application';
         this.author = 'StevenSanz';
         this.count = 0;
-        this.imgSource = './../favicon.ico';
+        this.imgSource = '/favicon.ico';
         this.status = false;
     }
     AppComponent.prototype.changeStatus = function () {
